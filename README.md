@@ -20,4 +20,4 @@ Este é o backend do projeto **Pizzaria**, uma aplicação desenvolvida para ger
 ## Como executar o projeto 🚀
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/Lucassocorrosilva7/Backend-pizzaria
