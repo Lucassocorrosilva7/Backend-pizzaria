@@ -10,10 +10,7 @@ class RemoveItemController {
         const order = await removeItemService.execute({
             item_id
         })
-
-
         return res.json(order)
-
     }
 }
 
